@@ -1,0 +1,17 @@
+h1
+{
+  color:rgba(165, 42, 42, 0.705);
+}
+  body
+{ 
+   background-color:wheat;
+}
+#carte 
+{
+  width: 900px;
+  margin:0 auto;
+  background-color: violet;
+  text-align: center;
+  align-content: center;
+
+}
